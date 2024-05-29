@@ -36,11 +36,7 @@
                 "rewarded_id": "",
                 "native_id": "ca-app-pub-3940256099942544/2247696110",
                 "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-                "facebook_banner_id": "838653828124676_838655808124478
-
-
-
-",
+                "facebook_banner_id": "838653828124676_838655808124478",
                 "facebook_interstitial_id": "838653828124676_838655868124472",
                 "facebook_rewarded_id": "",
                 "facebook_native_id": "838653828124676_838655908124468",
