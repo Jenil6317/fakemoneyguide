@@ -8,7 +8,7 @@
             "name": "Fake Money",
             "secret_key": "",
             "is_facebook": 0,
-            "is_adx": 1,
+            "is_adx": 0,
             "is_admob": 0,
             "status": 1,
             "created_at": "2024-04-11T10:40:49.000000Z",
@@ -40,7 +40,7 @@
                 "facebook_interstitial_id": "838653828124676_838655868124472",
                 "facebook_rewarded_id": "",
                 "facebook_native_id": "838653828124676_838655908124468",
-                "qureka_id": "",
+                "qureka_id": "https://426.set.qureka.com/intro/question",
                 "created_at": "2024-04-11T10:41:04.000000Z",
                 "updated_at": "2024-04-20T06:54:38.000000Z"
             }
